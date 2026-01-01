@@ -1,13 +1,22 @@
 
-# DS lab Index Table C Sec - Monday Batch 
-asdakbdj	asda	asd    
+# DS lab Index Table C Sec - Monday Batch (C1 Batch)
 
-| SI.NO | Program No    | Date      |
-|-------|---------------|----------|
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
+| SI.NO |     Program No      | Date         |
+|-------|---------------------|--------------|
+|   1   | Program 1           | 22/09/2025   |
+|   2   | Program 2           | 29/09/2025   |
+|   3   | Program 3           | 06/10/2025   |
+|   4   | Program 4           | 13/10/2025   |
+|   5   | Program 5           | 27/10/2025   |
+|   6   | Program 6           | 03/11/2025   |
+|   7   | Program 7           | 17/11/2025   |
+|   8   | Program 8           | 24/11/2025   |
+|   9   | Program 9           | 08/12/2025   |
+|   10  | Program 10          | 15/12/2025   |
+|   11  | Program 11          | 22/12/2025   |
+|   12  | Program 12          | 22/12/2025   |
+
+
 
 
 
